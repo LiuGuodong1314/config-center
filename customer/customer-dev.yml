@@ -25,4 +25,4 @@ spring:
 
 ## 自定义配置
 allsystem:
-  message: Hello World!你好！
+  message: Hello World!你好！你好！
