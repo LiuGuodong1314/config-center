@@ -24,5 +24,4 @@ spring:
 
 ## 自定义配置
 customer:
-  message: Hello World!
-
+  message: Hello World!你好！
